@@ -1,5 +1,5 @@
 owner: TrooperLooper
-repo: retrotimer-status
+repo: gametimer-status
 user-agent: TrooperLooper
 
 sites:
@@ -7,6 +7,6 @@ sites:
     url: https://gametimetrackerlive-production.up.railway.app/health
 
 status-website:
-  baseUrl: /retrotimer-status
+  baseUrl: /gametimer-status
   name: RetroTimer Status
   introTitle: "**RetroTimer** API status and uptime, monitored 24/7."
