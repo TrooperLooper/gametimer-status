@@ -1,6 +1,6 @@
 # [📈 Live Status](https://TrooperLooper.github.io/retrotimer-status): <!--live status--> **🟥 Complete outage**
 
-This repository contains the open-source uptime monitor and status page for [Lars](https://www.recap.dk), powered by [Upptime](https://github.com/upptime/upptime).
+This repository contains the open-source uptime monitor and status page for TrooperLooper powered by [Upptime](https://github.com/upptime/upptime).
 
 [![Uptime CI](https://github.com/TrooperLooper/gametimer-status/workflows/Uptime%20CI/badge.svg)](https://github.com/TrooperLooper/gametimer-status/actions/workflows/uptime.yml)
 [![Response Time CI](https://github.com/TrooperLooper/gametimer-status/workflows/Response%20Time%20CI/badge.svg)](https://github.com/TrooperLooper/gametimer-status/actions/workflows/response-time.yml)
