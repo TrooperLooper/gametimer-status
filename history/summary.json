@@ -5,16 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gametimetrackerlive-production.up.railway.app.ico",
     "slug": "retro-timer-api",
     "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptime": "60.09%",
+    "uptimeDay": "60.09%",
+    "uptimeWeek": "60.09%",
+    "uptimeMonth": "60.09%",
+    "uptimeYear": "60.09%",
     "time": 99,
     "timeDay": 99,
     "timeWeek": 99,
     "timeMonth": 99,
     "timeYear": 99,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-07-29": 0
+    }
   }
 ]
