@@ -1,23 +1,20 @@
 [
   {
-    "name": "RetroTimer API",
+    "name": "GameTimer API",
     "url": "https://gametimetrackerlive-production.up.railway.app/health",
     "icon": "https://icons.duckduckgo.com/ip3/gametimetrackerlive-production.up.railway.app.ico",
-    "slug": "retro-timer-api",
-    "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
-    "time": 56,
-    "timeDay": 56,
-    "timeWeek": 56,
-    "timeMonth": 56,
-    "timeYear": 56,
-    "dailyMinutesDown": {
-      "2026-07-30": 29,
-      "2026-07-29": 1032
-    }
+    "slug": "game-timer-api",
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 241,
+    "timeDay": 241,
+    "timeWeek": 241,
+    "timeMonth": 241,
+    "timeYear": 241,
+    "dailyMinutesDown": {}
   }
 ]
