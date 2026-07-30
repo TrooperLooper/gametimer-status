@@ -3,10 +3,10 @@ repo: gametimer-status
 user-agent: TrooperLooper
 
 sites:
-  - name: RetroTimer API
+  - name: GameTimer API
     url: https://gametimetrackerlive-production.up.railway.app/health
 
 status-website:
   baseUrl: /gametimer-status
-  name: RetroTimer Status
-  introTitle: "**RetroTimer** API status and uptime, monitored 24/7."
+  name: GameTimer Status
+  introTitle: "**GameTimer** API status and uptime, monitored 24/7."
